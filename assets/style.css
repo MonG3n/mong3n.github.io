@@ -78,7 +78,7 @@ body:before {
     transform: scale(1);
     width: 100vw;
     z-index: 0;
-    background-image: linear-gradient(to top, rgba(0,0,0,0.522), rgba(0,0,0,0.522)), url('assets/images/bg.jpg?v=e194219e');
+    background-image: linear-gradient(to top, rgba(0,0,0,0.522), rgba(0,0,0,0.522)), url('assets/images/bg.png');
     background-position: 0% 0%, center;
     background-repeat: repeat, repeat-y;
     background-size: auto, cover;
