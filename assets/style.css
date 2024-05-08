@@ -78,7 +78,7 @@ body:before {
     transform: scale(1);
     width: 100vw;
     z-index: 0;
-    background-image: linear-gradient(to top, rgba(0,0,0,0.522), rgba(0,0,0,0.522)), url('assets/images/bg.png');
+    background-image: linear-gradient(to top, rgba(0,0,0,0.522), rgba(0,0,0,0.522)), url('https://cdn.discordapp.com/attachments/1214942096402808954/1237782565906153482/2024-05-07_15.26.30-ezgif.com-crop.png?ex=663ce658&is=663b94d8&hm=7944a59072fb0c8acc5fd038fd89597e5a955ca792a76c515cb656736a0c49b6&');
     background-position: 0% 0%, center;
     background-repeat: repeat, repeat-y;
     background-size: auto, cover;
@@ -308,7 +308,7 @@ body.is-loading {
 }
 
 body.is-loading.with-loader #wrapper:after {
-    background-image: url('assets/images/bg.png');
+    background-image: url('https://cdn.discordapp.com/attachments/1214942096402808954/1237782565906153482/2024-05-07_15.26.30-ezgif.com-crop.png?ex=663ce658&is=663b94d8&hm=7944a59072fb0c8acc5fd038fd89597e5a955ca792a76c515cb656736a0c49b6&')
     opacity: 1;
     transform: scale(1.0);
     visibility: visible;
